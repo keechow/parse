@@ -1,4 +1,5 @@
 2015-10-27
+
 My first commit.
 The purpose of this folder is to store all material relevant to this journey of mine.
 A journey to explore and learn how to parse, extract, manipulate and utilise the vast amount of data on the Internet.
